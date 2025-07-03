@@ -1,3 +1,5 @@
+const OPENAI_API_KEY = 
+import.meta.env.VITE_OPENAI_API_KEY;
 const firebaseConfig = {
   apiKey: "AIzaSyAIWOdp6m3JMOLeQ-rIgIFJ-8VwkwBpJ5k",
   authDomain: "crideros-sign-in.firebaseapp.com",
